@@ -1,0 +1,6 @@
+.container {
+  box-shadow: 2px 2px 2px 2px gray;
+  border: 1px solid #767676;
+  width: 75%;
+  margin: auto auto;
+}
